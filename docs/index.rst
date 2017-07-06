@@ -10,6 +10,8 @@ Welcome to Carl's Playground's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   intro
+
 
 
 Indices and tables
